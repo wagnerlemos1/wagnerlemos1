@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sou apaixonado por tecnologia, programação e por transformar ideias em soluções digitais que fazem a diferença. Atuo como desenvolvedor Full Stack, com experiência no desenvolvimento de aplicações front-end e back-end, buscando sempre unir performance, usabilidade e boas práticas de código.</h2>
+<h2 align="center">Sou apaixonado por tecnologia, programação e por transformar ideias em soluções digitais que fazem a diferença. Atuo como desenvolvedor Full Stack, com experiência no desenvolvimento de aplicações front-end e back-end, buscando sempre unir performance, usabilidade e boas práticas de código.</h2>
 
 ###
 
@@ -29,9 +29,3 @@
 </div>
 
 ###
-
-
-
-
-
-
