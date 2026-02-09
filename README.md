@@ -32,10 +32,6 @@
 
 
 
-[![Wagner github stats](https://github-readme-stats.vercel.app/api?username=wagnerlemos1&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlemos1&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
 
 
